@@ -5,16 +5,16 @@ Olá, eu sou o Gabriel, sou ex-aluno da EsPCEx e atualmente sou aluno de ADS no 
 ## 📂 Repositórios
 
 
-- [Python Programming](https://github.com/gabriel-ribeiro-PET/python-programming)  
+### [Python Programming](https://github.com/gabriel-ribeiro-PET/python-programming)  
   Lógica e fundamentos de Python.
 
-- [C Programming](https://github.com/gabriel-ribeiro-PET/c-programming)  
+### [C Programming](https://github.com/gabriel-ribeiro-PET/c-programming)  
   Lógica e fundamentos de C.
 
-- [HTML & CSS](https://github.com/gabriel-ribeiro-PET/html-css)  
+### [HTML & CSS](https://github.com/gabriel-ribeiro-PET/html-css)  
   Desenvolvimento web básico.
 
-- [Lógica com Portugol](https://github.com/gabriel-ribeiro-PET/logica-portugol)  
+### [Lógica com Portugol](https://github.com/gabriel-ribeiro-PET/logica-portugol)  
   Algoritmos e lógica de programação com Portugol.
 
 ## 📊 GitHub Stats
